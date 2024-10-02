@@ -1,0 +1,1 @@
+# plugins-fat-rat-collect
